@@ -1,0 +1,47 @@
+.wrapper {
+    background-color: rgb(17, 17, 37);
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+}
+
+img {
+    width: 1510px;
+    height: 720px;
+}
+
+h1 {
+    color: silver;
+    margin-top: -100px;
+    font-weight: normal;
+    font-size: 4rem;
+}
+
+.container {
+    color: grey;
+    padding: 4rem;
+    border: 5px solid silver;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.big-text {
+    font-weight: bold;
+    font-size: 6rem;
+    line-height: 1;
+    margin: 0 2rem;
+}
+
+.elem {
+    text-align: center;
+}
+
+.elem span {
+    font-size: 1.5rem;
+}
